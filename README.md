@@ -1,1 +1,1 @@
-Testing vagrant and trying out git on it huehue
+First README in this dir
